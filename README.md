@@ -12,7 +12,7 @@ EventEase is a Blazor-based web application designed to streamline event managem
 - Session-based state management for a smooth user experience
 
 ## ToDo
-- [ ] Set up Blazor project structure
+- [x] Set up Blazor project structure
 - [ ] Create Event Card component
 - [ ] Implement event list and detail pages
 - [ ] Add routing between pages
